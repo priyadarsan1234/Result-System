@@ -12,7 +12,7 @@ $showError = false;
 
   
 
-  if($user == "Creative" & $pass == "creative@123")
+  if($user == "pass" & $pass == "passsss")
   {
       
       session_start();
