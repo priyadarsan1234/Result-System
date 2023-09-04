@@ -1,9 +1,9 @@
 <?php
 
     $servername = "localhost";
-    $username = "creativecollege_creative";
-    $password = "creativecollege@123";
-    $database = "creativecollege_Student";
+    $username = "user";
+    $password = "password";
+    $database = "cdbt";
 
     $conn = mysqli_connect($servername, $username, $password, $database);
     $Id= $_GET["id"];
