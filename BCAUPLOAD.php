@@ -4,9 +4,9 @@ require 'vendor/autoload.php'; // Path to PhpSpreadsheet library
 use PhpOffice\PhpSpreadsheet\IOFactory;
 
 $servername = "localhost";
-    $username = "creativecollege_creative";
-    $password = "creativecollege@123";
-    $database = "creativecollege_Result";
+    $username = "cruserdfve";
+    $password = "ygjughh";
+    $database = "db";
     
     $sem=$_GET['Semester'];
     $exam=$_GET['Exam'];
