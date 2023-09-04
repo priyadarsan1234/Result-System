@@ -2,9 +2,9 @@
 
 
     $servername = "localhost";
-    $username = "creativecollege_creative";
-    $password = "creativecollege@123";
-    $database = "creativecollege_Student";
+    $username = "username";
+    $password = "pass";
+    $database = "dbname";
 
     $conn = mysqli_connect($servername, $username, $password, $database);
     if(isset($_POST['submit'])) 
